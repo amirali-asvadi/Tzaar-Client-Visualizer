@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{4F2B51F4-3838-00D3-3207-1A4398E61EEB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Cell.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="61" Column="6" />
+      <File FileName="Assets/Scripts/Cell.cs" Line="33" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tzaar" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="291f4fb5-81fb-4d06-a59c-c42d8a43f5bc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
